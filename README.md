@@ -1,5 +1,5 @@
 # Pure CSS Material Design Buttons
- See it in action <a href="https://mbotha.github.io/css-md-buttons" target="_blank">https://mbotha.github.io/css-md-buttons/</a>
+ See it in action https://mbotha.github.io/css-md-buttons
  
  #### Very minimal CSS only Material design buttons
 ## HTML to display the button
