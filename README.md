@@ -1,5 +1,8 @@
-# Pure CSS Material Design Buttons
+# Pure CSS Material Design Buttons ![alt text](https://img.shields.io/badge/CSS--blue "CSS") ![alt text](https://img.shields.io/badge/HTML5--blue "CSS")
  See it in action https://mbotha.github.io/css-md-buttons
+
+
+
  
  #### Very minimal CSS only Material design buttons
 ## HTML to display the button
