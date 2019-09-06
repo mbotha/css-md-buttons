@@ -4,7 +4,7 @@
  #### Very minimal CSS only Material design buttons
 ## HTML to display the button
 
-```
+```html
 <button type="button" class="bg-blue waves">button</button>
 ```
 ## CSS to generate the waves effect
