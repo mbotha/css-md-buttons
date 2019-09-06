@@ -9,7 +9,7 @@
 ```
 ## CSS to generate the waves effect
 
-```
+```css
         .waves {
             position: relative;
             overflow: hidden;
